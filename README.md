@@ -20,8 +20,8 @@ We summarize several important properties and assumptions.
 # Autors
  Adir Harel    
  Anna Okulov                     
- Erez Yaacopor
- Mariana Vainshtok
+ Erez Yaacopor  
+ Mariana Vainshtok 
 
 #For more information:
  http://algs4.cs.princeton.edu/44sp/
